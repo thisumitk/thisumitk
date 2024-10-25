@@ -14,7 +14,7 @@ I’m always open to collaboration on exciting and impactful projects. Let’s b
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [@linkedIn/sumit-kumar-27a735301](https://www.linkedin.com/in/sumit-kumar-27a735301/)
+- **LinkedIn**: [@linkedIn/thisumitk](https://github.com/thisumitk)
 - **Twitter**: [@twitter/thisumitk](https://twitter.com/thisumitk)
 
 #### 💻 Tech Stack
@@ -30,13 +30,13 @@ I’m always open to collaboration on exciting and impactful projects. Let’s b
 
 ### 🌟 My Recent Projects
 
-1. **[@SlackO](https://github.com/sumitk-jma/slack-clone)** - A Web Based Chat App [Learning implementation of realtime web based communication].
-2. **[@PayX](https://github.com/sumitk-jma/payx)** - A Paytm-Clone to learn [P2P transactions, payment flows & full stack integration with custom backend] with [Next-js based frontend].
+1. **[@SlackO](https://github.com/thisumitk/slack-clone)** - A Web Based Chat App [Learning implementation of realtime web based communication].
+2. **[@PayX](https://github.com/thisumitk/payx)** - A Paytm-Clone to learn [P2P transactions, payment flows & full stack integration with custom backend] with [Next-js based frontend].
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitk-jma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitk-jma&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisumitk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisumitk&layout=compact&theme=radical)
 
 ---
 
