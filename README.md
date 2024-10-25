@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMwZ2V1M3Nlajd1NmRqcXlraWJycnhreXM5Nm4zdDVqMG14OW05ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif))
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMwZ2V1M3Nlajd1NmRqcXlraWJycnhreXM5Nm4zdDVqMG14OW05ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 
 ### Hello there! I'm Sumit Kumar ✨
   &emsp;I enjoy looking at my terminal 😅 </br>
