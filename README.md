@@ -4,7 +4,7 @@
   &emsp;I enjoy looking at my terminal 😅 </br>
   &emsp;On a journey to build something cool.. (I'd look at that and my chest would puff up atleast by few inches) 😄
 
-### Current Project [@SlackO]( addaddhttps://slacko.thisumitk.com/) ✨
+### Current Project [@SlackO](https://slacko.thisumitk.com/) ✨
 
  - **Current Role**: Looking for one 👀
 
