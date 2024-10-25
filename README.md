@@ -14,7 +14,7 @@ I’m always open to collaboration on exciting and impactful projects. Let’s b
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [@linkedIn/thisumitk](https://linkedin.com/thisumitk)
+- **LinkedIn**: [@linkedIn/thisumitk](https://www.linkedin.com/in/thisumitk/)
 - **Twitter**: [@twitter/thisumitk](https://twitter.com/thisumitk)
 
 #### 💻 Tech Stack
