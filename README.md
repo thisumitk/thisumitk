@@ -31,7 +31,7 @@ I’m always open to collaboration on exciting and impactful projects. Let’s b
 ### 🌟 My Recent Projects
 
 1. **[@SlackO](https://github.com/thisumitk/slack-clone)** - A Web Based Chat App [Learning implementation of realtime web based communication].
-2. **[@PayX](https://github.com/thisumitk/payx)** - A Paytm-Clone to learn [P2P transactions, payment flows & full stack integration with custom backend] with [Next-js based frontend].
+2. **[@PayX](https://github.com/thisumitk/payx)** - A Paytm-Clone to learn [P2P transactions, payment flows & full stack integration with custom backend] using [Next-js based frontend].
 
 ---
 
