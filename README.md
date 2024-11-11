@@ -38,8 +38,6 @@ I’m always open to collaboration on exciting and impactful projects. Let’s b
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisumitk&theme=github_dark)
 ![GitHub Repository Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisumitk&theme=github_dark)
 ![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisumitk&theme=github_dark)
-![Activity Card](http://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=thisumitk&theme=github_dark)
-![Streak Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=thisumitk&theme=github_dark)
 
 
 ---
