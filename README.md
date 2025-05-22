@@ -6,7 +6,7 @@
 
 ### Current Project [@SlackO](https://slacko.thisumitk.com/) ✨
 
- - **Current Role**: Looking for one 👀
+ - **Current Role**: SDE @ Celetel Technologies Pvt Ltd
 
  - **Education**: Bachelor of Business Administration, [ITM University Gwalior] '23
 
