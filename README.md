@@ -15,10 +15,15 @@ I care about what happens when a webhook arrives twice, a provider times out, or
 
 Node.js · TypeScript · Go · Redis · BullMQ · MongoDB
 
+## Selected projects
+
+- [Release Doctor](https://github.com/thisumitk/release-doctor): a diagnostic CLI for npm packages and workspaces. Checks package metadata, entrypoints, dependencies, and release configuration before publishing.
+- [NGTZ](https://github.com/thisumitk/ngtz-app): a habit-tracking side project with PostgreSQL-backed daily-log upserts, optimistic UI updates, and server-side analytics.
+
 ## Learning projects
 
 - [SlackO](https://github.com/thisumitk/slack-clone): a web chat app exploring real-time communication.
-- [PayX](https://github.com/thisumitk/payx): a payment-app clone exploring peer-to-peer transactions and full-stack payment flows.
+- [PayX](https://github.com/thisumitk/payx): a payment-app clone exploring simulated peer-to-peer payment flows and full-stack integration.
 
 ## Connect
 
